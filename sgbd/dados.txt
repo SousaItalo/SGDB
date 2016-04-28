@@ -1,0 +1,28 @@
+001;Ruca Malen;Pinot Noir;2008;França
+
+002;Ruca Malen;Riesling;2008;França
+
+003;Tempus Alba;Chardonay;2009;Italia
+
+004;Ruca Malen;Riesling;2009;França
+
+005;Luigi Bosca;Chardonay;2009;Chile
+
+006;Catena Zapata;Shiraz;2010;França
+
+007;Viña Cobos;Sauvignon;2010;Alemanha
+
+008;Don Laurindo;Merlot;2011;Brasil
+
+009;Tempus Alba;Chardonay;2011;França
+
+010;Luigi Bosca;Riesling;2012;Brasil
+
+011;Terrazas de los Andes;Malbec;2012;França
+
+012;Viña Cobos;Sauvignon;2012;Alemanha
+013;Don Laurindo;Merlot;2013;Brasil
+014;Tempus Alba;Chardonay;2013;França
+015;Luigi Bosca;Riesling;2014;Brasil
+016;Terrazas de los Andes;Malbec;2014;França
+017;Ruca Malen;Cabernet;2015;Italia
